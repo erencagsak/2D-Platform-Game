@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KilicVurusBox
+  - Orumcek
+  - Yarasa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Zemin
+  - Water
+  - UI
+  - NoCollision
+  - Player
+  - Enemy
+  - KilicLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 2188255593
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zemin
+    uniqueID: 1115688853
+    locked: 0
+  - name: Objeler
+    uniqueID: 3429212305
+    locked: 0
+  - name: Efektler
+    uniqueID: 3681321221
+    locked: 0
+  - name: Player
+    uniqueID: 3280649375
+    locked: 0
